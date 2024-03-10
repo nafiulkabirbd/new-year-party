@@ -56,3 +56,41 @@
 }
 
 /*  banner related style end */
+
+/* all categories realted style start */
+
+.categories {
+    margin: 120px auto;
+    text-align: center;
+}
+
+.offer-heading {
+    font-family: "Inter", sans-serif;
+    font-weight: 700;
+    font-size: 88px;
+    color: rgb(255, 0, 0);
+}
+
+.offer-sub-heading {
+    margin-top: 30px;
+    font-family: "Inter", sans-serif;
+    font-weight: 500;
+    font-size: 24px;
+    color: rgb(255, 0, 0);
+}
+
+.offer-description {
+    margin-top: 20px;
+    font-family: "Inter", sans-serif;
+    font-weight: 700;
+    font-size: 48px;
+    color: rgb(7, 2, 17);
+}
+
+.categories img {
+    margin-top: 30px;
+    width: 800px;
+    height: 500px;
+}
+
+/* all categories realted style end */
